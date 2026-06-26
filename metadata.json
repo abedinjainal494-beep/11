@@ -1,0 +1,6 @@
+{
+  "name": "11",
+  "description": "Your supportive, playful personal assistant and emotional support crush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
